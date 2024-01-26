@@ -1,6 +1,6 @@
 public class No_17 {
     public static void main(String[] args) {
-        String catatanPerjalanan = "NNTNNNTTTTNTTTNTN";
+        String catatanPerjalanan = "NTTTNN";
 
         int jumlahGunung = hitungGunungLembah(catatanPerjalanan, 'N');
         int jumlahLembah = hitungGunungLembah(catatanPerjalanan, 'T');

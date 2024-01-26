@@ -8,7 +8,7 @@ public class No_4 {
         tampilkanBilanganPrima(n);
     }
 
-    // Fungsi untuk mengecek apakah suatu bilangan adalah bilangan prima
+   
     public static boolean adalahPrima(int angka) {
         if (angka <= 1) {
             return false;

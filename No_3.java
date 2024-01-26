@@ -2,9 +2,9 @@ import java.time.LocalDateTime;
 import java.time.Duration;
 public class No_3 {
     public static void main(String[] args) {
-        // Contoh penggunaan fungsi untuk menghitung tarif parkir
-        LocalDateTime masuk1 = LocalDateTime.of(2019, 1, 27, 5, 0, 1);
-        LocalDateTime keluar1 = LocalDateTime.of(2019, 1, 27, 17, 45, 3);
+    
+        LocalDateTime masuk1 = LocalDateTime.of(2019, 1, 27, 0, 0, 1);
+        LocalDateTime keluar1 = LocalDateTime.of(2019, 1, 27, 9, 45, 3);
 
         System.out.println("Tarif Parkir 1: " + hitungTarifParkir(masuk1, keluar1));
 

@@ -8,7 +8,7 @@ public class No_5 {
 		int input = scan.nextInt();
 
 		int n = input;
-		int pass = 0;
+		int pass = 1;
 		int current = 1;
 		int [] fibonacci = new int [n];
 		

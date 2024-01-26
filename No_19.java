@@ -2,7 +2,7 @@ public class No_19 {
     public static void main(String[] args) {
         String kalimat1 = "Sphinx of black quartz, judge my vow";
         String kalimat2 = "Brawny gods just flocked up to quiz and vex him";
-        String kalimat3 = "Check back tomorrow; I will see if the book has arrived";
+        String kalimat3 = "Check back tomorrow; I will see if the book has arrivedxzyg";
 
         System.out.println("Kalimat 1 adalah pangram: " + isPangram(kalimat1));
         System.out.println("Kalimat 2 adalah pangram: " + isPangram(kalimat2));

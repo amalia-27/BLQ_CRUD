@@ -1,14 +1,14 @@
-package com.perpustakaan.services;
+package com.perpustakaan.demo.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.perpustakaan.model.Book;
-import com.perpustakaan.model.User;
-import com.perpustakaan.repository.BookRepository;
-import com.perpustakaan.repository.UserRepository;
+import com.perpustakaan.demo.model.Book;
+import com.perpustakaan.demo.model.User;
+import com.perpustakaan.demo.repository.BookRepository;
+import com.perpustakaan.demo.repository.UserRepository;
 
 @Service
 public class BookService {

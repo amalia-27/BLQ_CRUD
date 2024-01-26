@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class No_7 {
     public static void main(String[] args) {
-        int[] deretAngka = {8, 7, 0, 2, 7, 1, 7, 6, 3, 0, 7, 1, 3, 4, 6, 1, 6, 4, 3};
+        int[] deretAngka = {8, 7, 0, 2, 7, 1, 7};
 
         double mean = hitungMean(deretAngka);
         int median = hitungMedian(deretAngka);
